@@ -60,5 +60,3 @@
 #### npm install pm2 -g 使用npm安装pm2
 
 #### conda create -n trail3 python=4.10
-
-###### 打赏地址（TRC20）：TUunBuqQ1ZDYt9WrA3ZarndFPQgefXqZAM
